@@ -1,6 +1,5 @@
 #include<stdio.h>
-
 int main(){
- printf("Hello, Github!\n");
- return 0;
+    printf("hello,Arjun!you're coding in VS Code!\n");
+    return 0;
 }
